@@ -15,7 +15,7 @@ function preload() {
 
     tomImg1 = loadImage("images/cat1.png");
     tomImg2 = loadImage("images/cat2.png");
-    tomImg3 = loadImage("images/car3.png");
+    tomImg3 = loadImage("images/cat3.png");
     tomImg4 = loadImage("images/cat4.png");
     jerryImg1 = loadImage("images/mouse1.png");
     jerryImg2 = loadImage("images/mouse2.png");
